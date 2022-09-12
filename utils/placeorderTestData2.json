@@ -1,9 +1,9 @@
 
   {
-    "bodGroupsPage" : "https://stage.beachbodyondemand.com/groups-about?locale=en_US",
-    "email1" : "userrr0709@yopmail.com",
-    "email2" : "qa61586764682@yopmail.com",
-    "email3" : "clubbuk@yopmail.com",
+    "homePage" : "https://stage.beachbodyondemand.com",
+    "email_free" : "userrr0709@yopmail.com",
+    "email_coach" : "qa61586764682@yopmail.com",
+    "email_club" : "clubbuk@yopmail.com",
     "password" : "Beach1234"
      
   }
